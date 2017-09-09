@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1504800630 source:e:\github_repository\cprimerplus\callback\main.c
+	<stdlib.h>
+	<stdio.h>
+

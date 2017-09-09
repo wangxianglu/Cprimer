@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1504424404 source:e:\github_repository\cprimerplus\chapter1\main.c
+	<stdio.h>
+	<stdlib.h>
+
