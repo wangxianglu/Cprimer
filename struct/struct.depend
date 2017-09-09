@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1504969957 source:e:\github_repository\cprimerplus\struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
