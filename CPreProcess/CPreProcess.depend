@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1505037835 source:e:\github_repository\cprimerplus\cpreprocess\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	"myheader.h"
+
+1505037765 source:e:\github_repository\cprimerplus\cpreprocess\preoperator.c
+	<stdio.h>
+
