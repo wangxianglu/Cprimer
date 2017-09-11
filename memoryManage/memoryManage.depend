@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505139999 source:e:\github_repository\cprimerplus\memorymanage\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
